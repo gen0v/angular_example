@@ -1,0 +1,11 @@
+[{
+    "data": "[13, 22, 30, 40, 50]",
+    "label": "Africa",
+    "borderColor": "#3e95cd",
+    "fill": "false"
+}, {
+    "data": "[47, 14, 37, 67, 80]",
+    "label": "Asia",
+    "borderColor": "#8e5ea2",
+    "fill": "false"
+}]
